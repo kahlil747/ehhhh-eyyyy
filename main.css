@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: lightgrey;
+}
+
+header {
+  background-color: white;
+  text-align: center;
+  height: 10vh;
+  margin-bottom: 5vh;
+}
+
+.header {
+  padding-top: 20px;
+}
+
+.box1 {
+  background-color: white;
+  margin: auto;
+  width: 50vw;
+  height: 52vw;
+}
+.box1-top {
+  padding: 20px 20px;
+}
+span {
+  float: right;
+  margin-top: -18px;
+}
+.img {
+  background-color: violet;
+  width: 100%;
+  height: 300px;
+}
